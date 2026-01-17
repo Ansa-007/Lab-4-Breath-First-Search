@@ -4,7 +4,6 @@ Industry-Grade Graph Traversal Solution
 
 Author: Khansa Younas
 Version: 2.0
-License: MIT
 
 This module provides a comprehensive BFS implementation with advanced features
 including error handling, performance optimization, and industry-standard practices.
@@ -447,3 +446,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
