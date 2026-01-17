@@ -1,6 +1,6 @@
-# Industry-Grade Breadth-First Search (BFS) Implementation
+# Breadth-First Search (BFS) Implementation
 
-**Professional Graph Traversal Solution for Enterprise Applications**
+**Graph Traversal Solution for Enterprise Applications**
 
 MIT License | Production Ready
 
@@ -475,4 +475,5 @@ For technical support, bug reports, or feature requests:
 ---
 
 **Built with ❤️ by Khansa Younas for enterprise-grade graph processing**
+
 
