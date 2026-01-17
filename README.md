@@ -8,7 +8,7 @@ MIT License | Production Ready
 
 ## 🎯 Overview
 
-Breadth-First Search (BFS) is a fundamental graph traversal algorithm that explores all vertices at the present depth level before moving on to vertices at the next depth level. This industry-grade implementation provides a comprehensive, production-ready solution for graph traversal with advanced features including performance metrics, error handling, logging, and multiple traversal algorithms. Designed for enterprise applications requiring reliability, scalability, and maintainability. 
+BFS (Breadth-First Search) explores level by level, visiting all neighbors of a node before moving deeper, and uses a queue. This industry-grade implementation provides a comprehensive, production-ready solution for graph traversal with advanced features including performance metrics, error handling, logging, and multiple traversal algorithms. Designed for enterprise applications requiring reliability, scalability, and maintainability. 
 ## 🚀 Key Features
 
 ### Core Functionality
@@ -475,3 +475,4 @@ For technical support, bug reports, or feature requests:
 ---
 
 **Built with ❤️ by Khansa Younas for enterprise-grade graph processing**
+
